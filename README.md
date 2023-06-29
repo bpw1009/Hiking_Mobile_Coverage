@@ -7,7 +7,7 @@ Here is a quick draft of a project to look at using geospatial data processing t
   * geopandas, shapely, goepy, pandas, matplotlib, plotly, and reverse_geocoder to identify the Verizon records since the locations were not labeled.
  
 
-In this example, I used the hiking route coordinates for Hancock Trail in the White Mountains of New Hampshire. This trail happens to be in Grafton County, NH. I reverse geocoded a point in each of the Verizon records until one returned Grafton County. Each record contains Verizon mobile coverage data for one county. 
+In this example, I used the hiking route coordinates for Hancock Trail in the White Mountains of New Hampshire. This trail happens to be in Grafton County, NH. I reverse geocoded a point in each of the Verizon records in New Hampshire until one returned Grafton County. Each record contains Verizon mobile coverage data for one county. 
 
 I then joined the hiking route to the coverage data and checked if each of the points on the route was in or out of coverage.
 
