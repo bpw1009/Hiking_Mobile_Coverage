@@ -1,4 +1,4 @@
-# Hiking_Mobile_Coverage
+# Hiking Mobile Coverage
 Here is a quick draft of a project to look at using geospatial data processing techniques to see what the mobile coverage will be like on a hiking trip.
 
 * I downloaded the hiking route coordinates from AllTrails using my subscription.
