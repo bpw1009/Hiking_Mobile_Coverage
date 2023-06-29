@@ -16,3 +16,7 @@ After this, I crated a variety of visualizations based on the result. I used ope
 In this example, assuming a constant rate of hiking, a hiker would be in coverage about 76% of the trip.
 
 A next step in this project could be to factor in changes in rate of speed based on the elevation gain or planned breaks. One function to estimate hiking speed is Tobler's Hiking Function. (https://rpubs.com/chrisbrunsdon/hiking)
+
+
+For now, the best way to view the Jupyter Notebook is through nbviewer so the map images render. This is until I experiment with other ways to share interactive feautures and images, etc:
+https://nbviewer.org/github/bpw1009/Hiking_Mobile_Coverage/blob/main/Hancock_Trail_NH_Verizon_Coverage.ipynb
