@@ -2,7 +2,7 @@
 Here is a quick draft of a project to look at using geospatial data processing techniques to see what the mobile coverage will be like on a hiking trip.
 
 * I downloaded the hiking route coordinates from AllTrails using my subscription.
-* I got Verizon's mobile coverage data (as of May 2015) from the FCC's website.
+* I got Verizon's mobile coverage data (as of May 2021) from the FCC's website.
 * I used several different python packages to process and visualize the data including the following:
   * geopandas, shapely, goepy, pandas, matplotlib, plotly, and reverse_geocoder to identify the Verizon records since the locations were not labeled.
  
