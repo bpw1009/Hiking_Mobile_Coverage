@@ -11,7 +11,7 @@ In this example, I used the hiking route coordinates for Hancock Trail in the Wh
 
 I then joined the hiking route to the coverage data and checked if each of the points on the route was in or out of coverage.
 
-After this, I crated a variety of visualizations based on the result. I used openstreetmaps for reference points.
+After this, I created a variety of visualizations based on the result. I used openstreetmaps for reference points.
 
 In this example, assuming a constant rate of hiking, a hiker would be in coverage about 76% of the trip.
 
